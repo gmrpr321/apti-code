@@ -2,6 +2,34 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "happyNum",
+      "request": "launch",
+      "mainClass": "J1FN.happyNum",
+      "projectName": "c apit code_aa996d1d"
+    },
+    {
+      "type": "java",
+      "name": "calc",
+      "request": "launch",
+      "mainClass": "J1FN.calc",
+      "projectName": "c apit code_aa996d1d"
+    },
+    {
+      "type": "java",
+      "name": "floatadd",
+      "request": "launch",
+      "mainClass": "J1FN.floatadd",
+      "projectName": "c apit code_aa996d1d"
+    },
+    {
+      "type": "java",
+      "name": "ReadInteger",
+      "request": "launch",
+      "mainClass": "J1FN.ReadInteger",
+      "projectName": "c apit code_aa996d1d"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
