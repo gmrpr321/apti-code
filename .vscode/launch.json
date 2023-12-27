@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "permutation",
+      "request": "launch",
+      "mainClass": "J2FN.permutation",
+      "projectName": "c apit code_aa996d1d"
+    },
+    {
+      "type": "java",
+      "name": "product",
+      "request": "launch",
+      "mainClass": "J2FN.product",
+      "projectName": "c apit code_aa996d1d"
+    },
+    {
+      "type": "java",
+      "name": "zohocorp",
+      "request": "launch",
+      "mainClass": "J1FN.zohocorp",
+      "projectName": "c apit code_aa996d1d"
+    },
+    {
+      "type": "java",
       "name": "happyNum",
       "request": "launch",
       "mainClass": "J1FN.happyNum",
