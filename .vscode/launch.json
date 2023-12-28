@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "palPrime",
+      "request": "launch",
+      "mainClass": "J3FN.palPrime",
+      "projectName": "c apit code_aa996d1d"
+    },
+    {
+      "type": "java",
+      "name": "partition",
+      "request": "launch",
+      "mainClass": "J3FN.partition",
+      "projectName": "c apit code_aa996d1d"
+    },
+    {
+      "type": "java",
       "name": "permutation",
       "request": "launch",
       "mainClass": "J2FN.permutation",
