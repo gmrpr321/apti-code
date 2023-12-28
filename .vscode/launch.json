@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "removeDupes",
+      "request": "launch",
+      "mainClass": "J3AN.removeDupes",
+      "projectName": "c apit code_aa996d1d"
+    },
+    {
+      "type": "java",
       "name": "palPrime",
       "request": "launch",
       "mainClass": "J3FN.palPrime",
